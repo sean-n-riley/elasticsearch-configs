@@ -4,10 +4,8 @@ A default ip address 192.168.1.10 has been used in ALL configurations.  Please g
 
 A default XLayer installation path of X:\SXI has been configured.  Please change this in ALL configs to point to the correct path.
 
-elasticsearch -   
+elasticsearch  
 kibana  
 logstash  
-filebeat -   
-metricbeat -   
-filebeats  
-metricbeats  
+filebeat  
+metricbeat  
